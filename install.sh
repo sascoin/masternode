@@ -11,7 +11,7 @@ COIN_TGZ='https://github.com/sascoin/SASCoin/releases/download/v.4.8.0.2-fix/Ubu
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
 SENTINEL_REPO='N/A'
 COIN_NAME='SASCoin'
-COIN_PORT=4010
+COIN_PORT=4030
 RPC_PORT=5010
 
 NODEIP=$(curl -s4 icanhazip.com)
