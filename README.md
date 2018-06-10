@@ -1,7 +1,7 @@
 # SASCOIN Masternode Setup Guide (Ubuntu 16.04)
 This guide will assist you in setting up a SASCoin Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
 
-If you require further assistance contact the support team @ [Discord](https://discord.gg/uB6c7Q2)
+If you require further assistance contact the support team @ [Discord](https://discord.gg/5w2nJMZ)
 ***
 ## Requirements
 1) **1,000 SAS coins.**
