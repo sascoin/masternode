@@ -32,7 +32,7 @@ purgeOldInstallation() {
     #remove old ufw port allow
     sudo ufw delete allow 4010/tcp > /dev/null 2>&1
     #remove old files
-    if [ -d "~/.icpro" ]; then
+    if [ -d "~/.sascoin" ]; then
         sudo rm -rf ~/.sascoin > /dev/null 2>&1
     fi
 }
